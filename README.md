@@ -5,9 +5,10 @@ Resources
 
 ## Email:
 
-- Self-hosted email
-- [Tutanota](https://tutanota.com/pricing)
-- [Protonmail](https://protonmail.com/pricing)
+- Self-hosted email with [OpenPGP Encryption](https://securityinabox.org/en/guide/mailvelope/web/) 
+- Webmail with [OpenPGP Encryption](https://securityinabox.org/en/guide/mailvelope/web/) 
+
+## Webmail:
 - [Posteo.de](https://posteo.de/de)
 - [Riseup](https://riseup.net)
 
